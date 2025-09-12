@@ -7,7 +7,7 @@ My game engine of choice is the Godot engine and I hate Unreal Engine.
 My Goals for 2025
 ```
 1. Learn OpenGL and create a small game engine / framework in it
-2. Learn C and rust
-3. Create a compiled programming language
-4. Work on Carbon
+2. Learn C and rust (WIP)
+3. Create a compiled programming language (DONE)
+4. Work on Carbon (WIP)
 ```
