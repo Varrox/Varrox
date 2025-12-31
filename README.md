@@ -11,4 +11,5 @@ My Goals for 2026
 2. Learn C and rust
 3. Hopium
 4. Work on Kraken
+5. Release simplesound
 ```
