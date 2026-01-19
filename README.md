@@ -13,3 +13,14 @@ My Goals for 2026
 4. Work on Kraken
 5. Release simplesound
 ```
+
+Experience in these things since:
+
+```
+C# : December 30th, 2023
+C++ : June 30th, 2024
+Python : August 20th, 2024
+Webdev : June 30th, 2024
+GDScript : August 20th, 2024
+Blender : December 10th, 2021
+```
