@@ -7,11 +7,11 @@
 
 My Goals for 2026
 ```
-1. Learn OpenGL and create a small game engine / framework in it
-2. Learn C and rust
+1. Learn OpenGL and create a small game engine / framework in it (WIP)
+2. Learn C and rust (WIP)
 3. Hopium
 4. Work on Kraken
-5. Release simplesound
+5. Release simplesound (WIP)
 ```
 
 Experience in these things since:
