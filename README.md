@@ -1,9 +1,16 @@
-# Hello, World!
+# `Hello, World!`
 
-\> I am a 16 year old game developer.  
-\> t-girl \:3  
-\> I have been coding for 2 years now.  
-\> My game engine of choice is the [Godot engine](https://github.com/godotengine/godot).  
+Hello, my name is aria greene, I am a 16 year old Godot game developer.
+I primarily work on FPS games and VR projects.
+And also sometimes dabble in software development too :p 
+
+* Age : `16`
+* Pronouns : `she/her/they`
+* Virtual Reality interface : `Valve Index && Quest 3`
+* Game engine : `Godot`
+* Favorite Language : `C++`
+
+Please visit my personal [website!](https://varrox.github.io/)
 
 My Goals for 2026
 ```
