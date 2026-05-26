@@ -5,7 +5,7 @@ I primarily work on FPS games and VR projects.
 And also sometimes dabble in software development too :p 
 
 * Age : `16`
-* Pronouns : `she/her/they`
+* Pronouns : `she/her`
 * Virtual Reality interface : `Valve Index && Quest 3`
 * Game engine : `Godot`
 * Favorite Language : `C++`
