@@ -30,4 +30,5 @@ Python : August 20th, 2024
 Webdev : June 30th, 2024
 GDScript : August 20th, 2024
 Blender : December 10th, 2021
+Java : September 5th, 2025
 ```
